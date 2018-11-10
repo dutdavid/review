@@ -29,7 +29,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-         <a href="../index.html" role="button" class="btn btn-primary btn-lg">HOME</a>
+         <a href="../index.php" role="button" class="btn btn-primary btn-lg">HOME</a>
           </ul>
         </div>
       </div>
