@@ -154,7 +154,7 @@ of topics that appeal to farmers, hobbyists,policy-makers, researchers, students
 institutions of higher learning. The lessons are delivered as a series of stories. It's witty,
 insightful, coversational and includes the ever-refresshing readers's questions and their razor-sharp comments.
 If you love a good story, read on. The Diary is now in your hands.<p>
-<p><a href="MPESA/index.html" role="button" class="btn btn-primary btn-lg">PURCHASE BOOK</a></p>
+<p><a href="MPESA/index.php" role="button" class="btn btn-primary btn-lg">PURCHASE BOOK</a></p>
 
                 </div>             
                 </div>
